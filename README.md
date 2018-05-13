@@ -1,1 +1,4 @@
-# magento2-phpmd
+PHPMD Coding Standards
+===
+
+This package contains PHPMD rules for any Magento 2 project.

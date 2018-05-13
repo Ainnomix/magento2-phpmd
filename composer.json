@@ -1,0 +1,22 @@
+{
+    "name": "magento2-quality-phpmd",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roman Tomchak",
+            "email": "romantomchak@gmail.com"
+        }
+    ],
+    "description": "PHPMD Coding standards for Magento2 projects",
+    "homepage": "https://github.com/Ainnomix/magento2-quality-phpmd",
+    "keywords": [
+        "php",
+        "phpmd",
+        "phpmd-rulesets",
+        "magento2"
+    ],
+    "require": {
+        "phpmd/phpmd": "~2.0"
+    }
+}
